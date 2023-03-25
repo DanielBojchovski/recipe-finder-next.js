@@ -14,8 +14,8 @@ export default function Header() {
           <h1 className="text-amber-200 font-bold text-5xl text-center">
             Recipe finder
           </h1>
-          <p className="text-amber-200 mt-2">Github repo -&gt; <a className="text-cyan-500" href="https://github.com/DanielBojchovski/recipe-finder-next.js">here</a></p>
         </Link>
+        <p className="text-amber-200 mt-2">Github repo -&gt; <a className="text-cyan-500" href="https://github.com/DanielBojchovski/recipe-finder-next.js">here</a></p>
       </div>
       {pathname && currentArea && (
         <div>
