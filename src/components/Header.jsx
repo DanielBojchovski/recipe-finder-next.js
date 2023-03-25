@@ -11,7 +11,7 @@ export default function Header() {
     <div className="py-5 px-2 sm:px-10 bg-zinc-800 flex items-center justify-between">
       <div>
         <Link href="/">
-          <h1 className="text-amber-200 font-bold text-5xl text-center">
+          <h1 className="text-amber-200 font-bold text-2xl sm:text-5xl text-center">
             Recipe finder
           </h1>
         </Link>
